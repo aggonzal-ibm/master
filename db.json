@@ -1,0 +1,18 @@
+{
+   "Loans":[
+      {
+         "id":"0922359013",
+         "accountNickname":"Préstamo de consumo Familoa",
+         "loanNumber":"XXXXX2391",
+         "accountStatus":"ACTIVE",
+         "lastStatementBalanceAmount":2750,
+         "currencyCode":"COL",
+         "accountNumber":"XXXXX2391",
+         "minimuPaymentAmount":"",
+         "minimumPaymentDueDate":2162018,
+         "outstandingBalanceAmount":0,
+         "paymentDueDate":0,
+         "productName":"Banco Agrario Premier"
+      }
+   ]
+}
